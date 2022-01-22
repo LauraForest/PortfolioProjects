@@ -1,3 +1,4 @@
+---Data exploration with COVID case--
 SELECT *
 FROM PortfolioProjects..CovidDeaths
 WHERE continent is not null
